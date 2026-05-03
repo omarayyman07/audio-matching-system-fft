@@ -2,7 +2,7 @@
 # 🎵 Audio Matching System using FFT
 
 A Python-based system that detects the position of a short audio clip within a longer signal using Fast Fourier Transform (FFT) and spectral similarity.
-Uses FFT and spectral similarity to perform audio fingerprinting (Shazam-like detection).
+
 ---
 
 ## 🚀 Features
